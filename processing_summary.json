@@ -1,0 +1,118 @@
+{
+  "total_documents": 28,
+  "total_chunks": 3435,
+  "documents_processed": [
+    {
+      "filename": "Ai_Training_Guide.pdf",
+      "type": "Ai Training Guide"
+    },
+    {
+      "filename": "Arbitration_Act_1940.pdf",
+      "type": "Arbitration Act 1940"
+    },
+    {
+      "filename": "Code_of_Civil_Procedure_1908.pdf",
+      "type": "Code of Civil Procedure 1908"
+    },
+    {
+      "filename": "Contract_Act_1872.pdf",
+      "type": "Contract Act 1872"
+    },
+    {
+      "filename": "CrPC.pdf",
+      "type": "Criminal Procedure Code 1898"
+    },
+    {
+      "filename": "Customs_Act_1969.pdf",
+      "type": "Customs Act 1969"
+    },
+    {
+      "filename": "Dissolution_of_Muslim_Marriages_Act_1939.pdf",
+      "type": "Dissolution of Muslim Marriages Act 1939"
+    },
+    {
+      "filename": "Factories_Act_1934.pdf",
+      "type": "Factories Act 1934"
+    },
+    {
+      "filename": "Guardians_and_Wards_Act_1890.pdf",
+      "type": "Guardians and Wards Act 1890"
+    },
+    {
+      "filename": "Income_Tax_Ordinance_2001.pdf",
+      "type": "Income Tax Ordinance 2001"
+    },
+    {
+      "filename": "Industrial_Relations_Act_2012.pdf",
+      "type": "Industrial Relations Act 2012"
+    },
+    {
+      "filename": "Land_Acquisition_Act_1894.pdf",
+      "type": "Land Acquisition Act 1894"
+    },
+    {
+      "filename": "Limitation_Act_1908.pdf",
+      "type": "Limitation Act 1908"
+    },
+    {
+      "filename": "Muslim_Family_Laws_Ordinance_1961.pdf",
+      "type": "Muslim Family Laws Ordinance 1961"
+    },
+    {
+      "filename": "National_Accountability_Ordinance_1999.pdf",
+      "type": "National Accountability Ordinance 1999"
+    },
+    {
+      "filename": "Negotiable_Instruments_Act_1881.pdf",
+      "type": "Negotiable Instruments Act 1881"
+    },
+    {
+      "filename": "Pakistan_Citizenship_Act_1951.pdf",
+      "type": "Pakistan Citizenship Act 1951"
+    },
+    {
+      "filename": "Pakistan_Constitution.pdf",
+      "type": "Constitution of Pakistan 1973"
+    },
+    {
+      "filename": "Pakistan_Panel_Code.pdf",
+      "type": "Pakistan Panel Code"
+    },
+    {
+      "filename": "Partnership_Act_1932.pdf",
+      "type": "Partnership Act 1932"
+    },
+    {
+      "filename": "Payment_of_Wages_Act_1936.pdf",
+      "type": "Payment of Wages Act 1936"
+    },
+    {
+      "filename": "Prevention_of_Electronic_Crimes_Act_2016.pdf",
+      "type": "Prevention of Electronic Crimes Act 2016"
+    },
+    {
+      "filename": "Qanun-e-Shahadat_Order_1984.pdf",
+      "type": "Qanun-e-Shahadat Order 1984"
+    },
+    {
+      "filename": "Registration_Act_1908.pdf",
+      "type": "Registration Act 1908"
+    },
+    {
+      "filename": "Sales_Tax_Act_1990.pdf",
+      "type": "Sales Tax Act 1990"
+    },
+    {
+      "filename": "Sale_of_Goods_Act_1930.pdf",
+      "type": "Sale of Goods Act 1930"
+    },
+    {
+      "filename": "Specific_Relief_Act_1877.pdf",
+      "type": "Specific Relief Act 1877"
+    },
+    {
+      "filename": "Transfer_of_Property_Act_1882.pdf",
+      "type": "Transfer of Property Act 1882"
+    }
+  ]
+}

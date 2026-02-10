@@ -1,0 +1,30 @@
+{
+  "momin67": {
+    "username": "momin67",
+    "email": "mominmasood77@gmail.com",
+    "full_name": "Momin Masood",
+    "disabled": false,
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$Mab0PsfYe8/5X4tRqvVeqw$ZkAstt0xuXUVmyoldeFKvk8Fisp0Wwmy6kmq/1jeZmE"
+  },
+  "momin_69": {
+    "username": "momin_69",
+    "email": "mominmasood77@gmail.com",
+    "full_name": "Momin Masood",
+    "disabled": false,
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$fA8B4HxPqZXSGsM4hxCCcA$mdzGpOtCim4zqmK633R1GZum4TF7pS3R3QAVSU2E5+o"
+  },
+  "ahsan123": {
+    "username": "ahsan123",
+    "email": "Trentbolt533@gmail.com",
+    "full_name": "Ahsan rehman",
+    "disabled": false,
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$YWwN4ZzT+t/7/3+PMeZcKw$fIrHlCzmoeIj1VULARJmyu/XwEVL3xx/qY25bqXxSls"
+  },
+  "momin123": {
+    "username": "momin123",
+    "email": "mominmasood77@gmail.com",
+    "full_name": "Momin Masood",
+    "disabled": false,
+    "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$3HuvFSLEOMf4fy+FkJLSWg$45yTWMFQbToarfF6ZZAnQYob5GRwNGwsj5WCd0SoczQ"
+  }
+}
