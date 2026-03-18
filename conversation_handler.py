@@ -51,7 +51,8 @@ class ConversationHandler:
                 r'\b(bye|allah hafiz|khuda hafiz|see you|take care|goodbye)\b',
             ],
             'capabilities': [
-                r'\b(what can you do|help me|how to use|what are you|capabilities|menu|features|github repo|repository|functionality|fix it|work on it|can you do it)\b',
+                r'\b(what can you do|help me|how to use|what are you|capabilities|menu|features)\b',
+                r'\b(github repo|repo|repository|functionality|funcionality|fix it|work on it|can you do it)\b',
             ],
             'irrelevant': [
                 r'\b(joke|funny|game|play|movie|music|food|weather|sports)\b',
