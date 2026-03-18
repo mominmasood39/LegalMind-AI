@@ -21,7 +21,7 @@ class ConversationHandler:
                 "Allah Hafiz. Feel free to return with any legal question.",
             ],
             'capabilities': [
-                "I can help with Pakistani law: FIR, bail, harassment, family matters, property, cybercrime, and more. Ask a legal question to begin.",
+                "Yes—I can help with functionality updates and fixes in this repository if you share the exact requirement or bug. I can also guide on Pakistani law: FIR, bail, harassment, family matters, property, cybercrime, and more.",
             ],
             'irrelevant': [
                 "Please ask a relevant legal question so I can assist you properly.",
@@ -52,6 +52,7 @@ class ConversationHandler:
             ],
             'capabilities': [
                 r'\b(what can you do|help me|how to use|what are you|capabilities|menu|features)\b',
+                r'\b(github repo|repo|repository|functionality|funcionality|fix it|work on it|can you do it)\b',
             ],
             'irrelevant': [
                 r'\b(joke|funny|game|play|movie|music|food|weather|sports)\b',
